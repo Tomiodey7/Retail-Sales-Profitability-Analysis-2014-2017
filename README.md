@@ -92,5 +92,5 @@ Management needed to answer:
 4.  **Geographic Diversification:** Reduce CA risk - replicate CA strategy in low-performing states.
 5.  **Profit Margin Improvement:** Current 12.03% is below benchmark - pushing Paper & Copiers can lift to 15%+.
 
-Taableau Public Link: https://public.tableau.com/views/RetailSalesandProfitabilityAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link<img width="468" height="84" alt="image" src="https://github.com/user-attachments/assets/eab4c431-08a2-4704-aee0-8191c61b3b66" />
+Taableau Public Link: https://public.tableau.com/views/RetailSalesandProfitabilityAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
